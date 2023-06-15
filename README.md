@@ -25,7 +25,6 @@
 **О структуре проекта:**
 
 * [PROJECT-3. EDA + Feature Engineering.ipynb](./PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
-* /PROJECT-3. EDA + Feature Engineering.ipynb
 
 ## Описание данных
 
@@ -125,9 +124,11 @@
 ## Используемые зависимости
 * Python (3.9):
     * [pandas (1.4.2)](https://pandas.pydata.org)
-    * [psycopg2 (2.9.5)](https://www.psycopg.org)
-    * [requests (2.27.1)](https://requests.readthedocs.io/en/latest/)
-    * [BeautifulSoup (4.8.1)](https://beautiful-soup-4.readthedocs.io/en/latest/)
+    * [numpy (1.24.2)](https://numpy.org)
+    * [scikit-learn (1.2.2)](https://scikit-learn.org)
+    * [matplotlib (3.7.1)](https://matplotlib.org)
+    * [plotly (5.14.1)](https://plotly.com/python/)
+    * [seaborn (0.12.2)](https://seaborn.pydata.org)
 
 ## Установка проекта
 

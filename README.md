@@ -135,6 +135,7 @@
 ```
 git clone https://github.com/Vsevolod90/Data_Science_PROJECT_3.git
 ```
+**Примечание:** для запуска jupyter-ноутбука на локальном компьютере используемые в проекте файлы hotels_train.csv (набор данных для обучения), hotels_test.csv (набор данных для оценки качества) и submission.csv (файл сабмишна в нужном формате) необходимо скачать самостоятельно на [сайте соревнования Kaggle](https://www.kaggle.com/competitions/sf-booking/data).
 
 ## Использование
-Вся информация о работе представлена в jupyter-ноутбуке [PROJECT-2. Анализ вакансий из HeadHunter](./PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter.ipynb)
+Вся информация о работе представлена в jupyter-ноутбуке [PROJECT-3. EDA + Feature Engineering.ipynb](./PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.ipynb).

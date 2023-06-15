@@ -24,7 +24,7 @@
 
 **О структуре проекта:**
 
-* [PROJECT-3. EDA + Feature Engineering.ipynb](/PROJECT-3. EDA + Feature Engineering.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
+* [PROJECT-3. EDA + Feature Engineering.ipynb](/PROJECT-3.%EDA%+%Feature%Engineering.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
 * 
 
 ## Описание данных
